@@ -1,0 +1,25 @@
+# emacs
+*~
+\#*\#
+.\#*
+
+# ensime
+.ensime
+.ensime_cache
+
+# intellij
+*.iml
+.idea/
+
+# mac
+.DS_Store
+
+# sbt
+target/
+lib_managed/
+src_managed/
+.history
+.cache
+
+# vim
+*.sw?
