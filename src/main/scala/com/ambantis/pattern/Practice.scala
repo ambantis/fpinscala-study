@@ -1,6 +1,6 @@
 package com.ambantis.pattern
 
-import com.ambantis.pattern.matching.com.ambantis.domain._
+import com.ambantis.domain._
 
 object DeptABC {
 

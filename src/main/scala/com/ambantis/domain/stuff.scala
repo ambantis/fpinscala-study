@@ -1,4 +1,4 @@
-package com.ambantis.pattern.matching.com.ambantis.domain
+package com.ambantis.domain
 
 /**
  * projects
